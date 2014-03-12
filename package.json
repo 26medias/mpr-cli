@@ -25,7 +25,8 @@
 	"dependencies": {
 		"commander": 	"latest",
 		"underscore":	"latest",
-		"toolset":		"latest"
+		"toolset":		"latest",
+		"tar.gz":		"latest"
 	},
 	"devDependencies": {
 
